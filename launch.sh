@@ -1,4 +1,3 @@
-[Forwarded from مستر بهروز یاقیـ🔥]
 #!/usr/bin/env bash
 
 
